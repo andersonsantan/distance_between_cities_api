@@ -19,7 +19,14 @@ de forma mais intuitiva e de acordo com padrões que aprendi e adotei em outros 
 * Heroku CLI
 
 ## DataBase
+O banco de dados foi baixado deste repositório, o mesmo será usado para 
+popular nosso banco com todas as informações que precisaremos para a construção
+e consumo da API.
 
+* [Data Base](https://github.com/chinnonsantos/sql-paises-estados-cidades)
+```
+https://github.com/chinnonsantos/sql-paises-estados-cidades
+```
 ### Postgres
 
 * [Postgres Docker Hub](https://hub.docker.com/_/postgres)
